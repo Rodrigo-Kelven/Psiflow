@@ -22,7 +22,10 @@ um personagem de desenho animado, um  personagem de jogo etc.
   ChatGPT, Character.AI, Replika 
 
 # Nicho
-  jovens adultos, ansiedade e depressão
+ansiedade e depressão
+
+# Publico
+Jovens e adultos
 
 # Tarefas de casa
   - Verificar o diferencial do produto
