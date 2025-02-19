@@ -2,12 +2,17 @@
 
 # CICLO DO DESENVOLVIEMNTO DE SOFTWARE
 
-1 - Planejamento
-2 - Análise de Requisitos
+- Planejamento
+- Análise de Requisitos
+
 3 - Projeto
+
 4 - Desenvolvimento
+
 5 - Testes
+
 6 - Implantação
+
 7 - Manutenção
 
 # Ideia para resolver o problema de Saúde Mental 
