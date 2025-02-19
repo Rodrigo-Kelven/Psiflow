@@ -25,6 +25,8 @@ um personagem de desenho animado, um  personagem de jogo etc.
   jovens adultos, ansiedade e depressão
 
 # Tarefas de casa
-  -Verificar o diferencial do produto
-  -Procurar um profissional de psicologia, para verificar se a ideia é válida e se for válida perguntar se o mesmo quer participar do projeto.
-  -Montar um forms.
+  - Verificar o diferencial do produto
+  
+  - Procurar um profissional de psicologia, para verificar se a ideia é válida e se for válida perguntar se o mesmo quer participar do projeto.
+  
+  - Montar um forms.
