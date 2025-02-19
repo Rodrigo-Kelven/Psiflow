@@ -4,16 +4,11 @@
 
 - Planejamento
 - Análise de Requisitos
-
-3 - Projeto
-
-4 - Desenvolvimento
-
-5 - Testes
-
-6 - Implantação
-
-7 - Manutenção
+- Projeto
+- Desenvolvimento
+- Testes
+- Implantação
+- Manutenção
 
 # Ideia para resolver o problema de Saúde Mental 
 
