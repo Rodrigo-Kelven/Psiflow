@@ -26,10 +26,3 @@ ansiedade e depressão
 
 # Publico
 Jovens e adultos
-
-# Tarefas de casa
-  - Verificar o diferencial do produto
-  
-  - Procurar um profissional de psicologia, para verificar se a ideia é válida e se for válida perguntar se o mesmo quer participar do projeto.
-  
-  - Montar um forms.
