@@ -1,3 +1,0 @@
-A IA sera feita para se adaptar ao usuário, onde o usuário criara um "personagem" fictício, onde o mesmo sera treinado para entender, e conversar com o usuário, exemplo: fazendo perguntas como "como esta seu dia?" em horários onde o usuário mais acessa o celular por exemplo,
-se o usuário não responder em determinado período, a IA ira realizar outra pergunta, "esta tudo bem?", com isso sera gerado um relatório baseado na quantidade de informações fornecidas/capturadas e enviadas para um psicólogo que esteja disponível para conversas, onde o psicólogo entrara em contado com o usuário.
-Pensando no Bonzi  Buddy, ele levantaria uma massiva quantidade de dados com o objetivo de estudar o usuário e 
