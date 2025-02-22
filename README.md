@@ -64,3 +64,11 @@ ansiedade e depressão
 
 # Publico
 Jovens e adultos
+
+# Contribuições
+Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir um issue ou enviar um pull request.;)
+
+## Autores
+- [@Rodrigo_Kelven](https://github.com/Rodrigo-Kelven)
+- [@Nicolas_Marcusi](https://github.com/N1kkoo)
+- [@Wesley Thiago](https://github.com/Wesley0071)
