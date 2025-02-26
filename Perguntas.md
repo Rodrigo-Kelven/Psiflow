@@ -43,9 +43,9 @@ Exemplo de interação:
 
 ### 4. Implementar Respostas Baseadas em Contexto
 
-A IA deve ser treinada para considerar o contexto emocional e psicológico das interações. Isso inclui responder de maneira mais empática e atenta, sem ser mecânica ou indiferente.
+### A IA deve ser treinada para considerar o contexto emocional e psicológico das interações. Isso inclui responder de maneira mais empática e atenta, sem ser mecânica ou indiferente.
 
-    Empatia: Ensine a IA a ser empática. Isso não significa "simular" sentimentos humanos, mas apresentar respostas que mostrem compreensão e respeito pelas dificuldades do usuário.
+  - Empatia: Ensine a IA a ser empática. Isso não significa "simular" sentimentos humanos, mas apresentar respostas que mostrem compreensão e respeito pelas dificuldades do usuário.
 
 Exemplo de empatia:
 
@@ -54,15 +54,15 @@ Exemplo de empatia:
 
 ### 5. Treinamento com Dados Equilibrados e Diversos
 
-As questões sensíveis podem variar muito dependendo de culturas, contextos sociais, valores e crenças. Ao treinar sua IA, é importante garantir que os dados sejam equilibrados e sensíveis às diferentes realidades culturais e de gênero, por exemplo.
+##### As questões sensíveis podem variar muito dependendo de culturas, contextos sociais, valores e crenças. Ao treinar sua IA, é importante garantir que os dados sejam equilibrados e sensíveis às diferentes realidades culturais e de gênero, por exemplo.
 
-    Evitar viés: Certifique-se de que o treinamento da IA seja equilibrado e evite reforçar vieses culturais, sexistas, racistas ou discriminatórios. A IA deve ser inclusiva e respeitosa com todos os grupos de usuários.
+  - Evitar viés: Certifique-se de que o treinamento da IA seja equilibrado e evite reforçar vieses culturais, sexistas, racistas ou discriminatórios. A IA deve ser inclusiva e respeitosa com todos os grupos de usuários.
 
 ### 6. Testar e Validar a IA com Especialistas
 
-Antes de disponibilizar sua IA para o público, é fundamental que especialistas revisem as respostas em áreas sensíveis. Isso pode incluir psicólogos, médicos, advogados ou outros profissionais da área relevante.
+#### Antes de disponibilizar sua IA para o público, é fundamental que especialistas revisem as respostas em áreas sensíveis. Isso pode incluir psicólogos, médicos, advogados ou outros profissionais da área relevante.
 
-    Revisão e feedback de especialistas: Trabalhe com profissionais qualificados para validar a precisão e a sensibilidade das respostas fornecidas pela IA.
+  - Revisão e feedback de especialistas: Trabalhe com profissionais qualificados para validar a precisão e a sensibilidade das respostas fornecidas pela IA.
 
 ### 7. Monitoramento Contínuo e Atualização
 
