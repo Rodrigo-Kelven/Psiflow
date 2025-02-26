@@ -1,4 +1,4 @@
-#### Treinar uma IA para responder a perguntas sensíveis é um processo que exige cuidado redobrado, pois envolve lidar com tópicos delicados de forma ética, respeitosa e com responsabilidade. As questões sensíveis podem envolver temas como saúde, privacidade, questões emocionais, jurídicas, morais ou até sociais. A IA precisa ser capaz de fornecer respostas adequadas e seguras, sem violar normas éticas ou causar danos aos usuários. Aqui estão algumas diretrizes e passos que você pode seguir para treinar sua IA para lidar com esse tipo de interação:
+Treinar uma IA para responder a perguntas sensíveis é um processo que exige cuidado redobrado, pois envolve lidar com tópicos delicados de forma ética, respeitosa e com responsabilidade. As questões sensíveis podem envolver temas como saúde, privacidade, questões emocionais, jurídicas, morais ou até sociais. A IA precisa ser capaz de fornecer respostas adequadas e seguras, sem violar normas éticas ou causar danos aos usuários. Aqui estão algumas diretrizes e passos que você pode seguir para treinar sua IA para lidar com esse tipo de interação:
 
 ### 1. Definir o Escopo e Limitações
 
