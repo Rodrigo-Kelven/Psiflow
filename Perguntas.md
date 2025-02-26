@@ -15,11 +15,11 @@ Exemplos de perguntas sensíveis:
 
 ### 2. Treinar com Dados Responsáveis
 
-Ao treinar uma IA para responder a questões sensíveis, é essencial garantir que os dados de treinamento sejam cuidadosamente selecionados para evitar a disseminação de informações erradas ou prejudiciais.
+- Ao treinar uma IA para responder a questões sensíveis, é essencial garantir que os dados de treinamento sejam cuidadosamente selecionados para evitar a disseminação de informações erradas ou prejudiciais.
 
-    Fontes confiáveis: Utilize fontes de dados que contenham informações precisas e verificadas. Para questões de saúde, por exemplo, baseie-se em artigos médicos e diretrizes de organizações de saúde reconhecidas. Para questões legais, use informações provenientes de fontes jurídicas confiáveis.
+    - Fontes confiáveis: Utilize fontes de dados que contenham informações precisas e verificadas. Para questões de saúde, por exemplo, baseie-se em artigos médicos e diretrizes de organizações de saúde reconhecidas. Para questões legais, use informações provenientes de fontes jurídicas confiáveis.
 
-    Anotações com contexto: É importante que as interações de treinamento sejam anotadas com o contexto apropriado. Isso ajudará a IA a entender como responder de maneira sensível e com a seriedade necessária.
+    - Anotações com contexto: É importante que as interações de treinamento sejam anotadas com o contexto apropriado. Isso ajudará a IA a entender como responder de maneira sensível e com a seriedade necessária.
 
 Exemplo de anotação:
 
@@ -30,11 +30,11 @@ Importante: A IA deve ser treinada para não dar conselhos médicos ou legais de
 
 ### 3. Evitar Respostas Prejudiciais ou Enganosas
 
-A IA precisa ser projetada para evitar fornecer respostas potencialmente prejudiciais, enganosas ou irresponsáveis. Respostas mal formuladas podem agravar uma situação delicada. Isso é especialmente crítico em áreas como saúde mental, onde um erro pode ter consequências graves.
+-  A IA precisa ser projetada para evitar fornecer respostas potencialmente prejudiciais, enganosas ou irresponsáveis. Respostas mal formuladas podem agravar uma situação delicada. Isso é especialmente crítico em áreas como saúde mental, onde um erro pode ter consequências graves.
 
-    Filtragem de respostas inadequadas: Use um mecanismo para filtrar respostas indesejadas. Por exemplo, evite que a IA faça diagnósticos médicos ou ofereça conselhos específicos sem a supervisão de um profissional.
+- Filtragem de respostas inadequadas: Use um mecanismo para filtrar respostas indesejadas. Por exemplo, evite que a IA faça diagnósticos médicos ou ofereça conselhos específicos sem a supervisão de um profissional.
 
-    Direcionamento para ajuda especializada: Quando a IA não pode fornecer uma resposta adequada, ela deve ser treinada para direcionar o usuário a procurar ajuda de um profissional, seja um terapeuta, médico, advogado ou serviço de emergência.
+ - Direcionamento para ajuda especializada: Quando a IA não pode fornecer uma resposta adequada, ela deve ser treinada para direcionar o usuário a procurar ajuda de um profissional, seja um terapeuta, médico, advogado ou serviço de emergência.
 
 Exemplo de interação:
 
