@@ -104,9 +104,9 @@ Exemplo de interação:
     def somar(a, b):
         return a + b
 
-9. Extrair Informações ou Entidades
+## 9. Extrair Informações ou Entidades
 
-Treinando uma IA para Reconhecimento de Entidades Nomeadas (NER), você pode usá-la para identificar e classificar entidades específicas dentro de um texto, como nomes, datas, lugares, etc.
+- Treinando uma IA para Reconhecimento de Entidades Nomeadas (NER), você pode usá-la para identificar e classificar entidades específicas dentro de um texto, como nomes, datas, lugares, etc.
 
 Exemplo de interação:
 
@@ -116,9 +116,9 @@ Exemplo de interação:
         Entidade: 44º presidente (Função)
         Entidade: Estados Unidos (Localização)
 
-10. Análise de Texto Técnico ou Científico
+## 10. Análise de Texto Técnico ou Científico
 
-Se você estiver treinando a IA para lidar com textos técnicos ou científicos, você pode usar interações que envolvem explicações de conceitos complexos ou extração de informações específicas.
+- Se você estiver treinando a IA para lidar com textos técnicos ou científicos, você pode usar interações que envolvem explicações de conceitos complexos ou extração de informações específicas.
 
 Exemplo de interação:
 
