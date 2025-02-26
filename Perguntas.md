@@ -4,11 +4,11 @@ Treinar uma IA para responder a perguntas sensíveis é um processo que exige cu
 
 - Antes de treinar a IA, é essencial estabelecer claramente quais tipos de perguntas sensíveis ela deve responder e quais serão suas limitações. Algumas perguntas podem exigir uma resposta precisa, enquanto outras podem precisar ser tratadas com cautela.
 
-Exemplos de perguntas sensíveis:
+- #### Exemplos de perguntas sensíveis:
 
-    Questões de saúde mental (ex: "Estou pensando em me machucar. O que eu faço?")
-    Questões legais (ex: "Estou sendo processado. O que devo fazer?")
-    Questões emocionais (ex: "Perdi um ente querido, como posso lidar com a dor?")
+  - Questões de saúde mental (ex: "Estou pensando em me machucar. O que eu faço?")
+  - Questões legais (ex: "Estou sendo processado. O que devo fazer?")
+  - Questões emocionais (ex: "Perdi um ente querido, como posso lidar com a dor?")
 
 ### Limitações:
 - A IA deve saber quando não é capaz de fornecer uma resposta segura ou quando é melhor direcionar o usuário a um profissional qualificado, como um médico, advogado ou terapeuta.
@@ -21,10 +21,10 @@ Exemplos de perguntas sensíveis:
 
     - Anotações com contexto: É importante que as interações de treinamento sejam anotadas com o contexto apropriado. Isso ajudará a IA a entender como responder de maneira sensível e com a seriedade necessária.
 
-Exemplo de anotação:
+- #### Exemplo de anotação:
 
-    Entrada: "Estou me sentindo deprimido, o que devo fazer?"
-    Saída: "Lamento saber como você está se sentindo. É importante procurar ajuda de um profissional de saúde mental. Se você estiver em crise, ligue para um centro de apoio imediato."
+    - Entrada: "Estou me sentindo deprimido, o que devo fazer?"
+    - Saída: "Lamento saber como você está se sentindo. É importante procurar ajuda de um profissional de saúde mental. Se você estiver em crise, ligue para um centro de apoio imediato."
 
 Importante: A IA deve ser treinada para não dar conselhos médicos ou legais de forma direta, mas sim encorajar o usuário a buscar ajuda profissional.
 
@@ -36,10 +36,10 @@ Importante: A IA deve ser treinada para não dar conselhos médicos ou legais de
 
  - Direcionamento para ajuda especializada: Quando a IA não pode fornecer uma resposta adequada, ela deve ser treinada para direcionar o usuário a procurar ajuda de um profissional, seja um terapeuta, médico, advogado ou serviço de emergência.
 
-Exemplo de interação:
+- #### Exemplo de interação:
 
-    Entrada (pergunta sensível): "Estou pensando em fazer algo ruim. O que devo fazer?"
-    Saída (resposta responsável): "Sinto muito saber que você está se sentindo assim, mas não sou capacitado para ajudar com isso. É muito importante falar com um profissional de saúde mental ou ligar para uma linha de apoio emocional para obter o suporte adequado."
+    - Entrada (pergunta sensível): "Estou pensando em fazer algo ruim. O que devo fazer?"
+    - Saída (resposta responsável): "Sinto muito saber que você está se sentindo assim, mas não sou capacitado para ajudar com isso. É muito importante falar com um profissional de saúde mental ou ligar para uma linha de apoio emocional para obter o suporte adequado."
 
 ### 4. Implementar Respostas Baseadas em Contexto
 
