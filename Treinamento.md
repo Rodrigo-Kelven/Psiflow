@@ -1,19 +1,19 @@
 # Como Criar Interações para Treinamento
 
-    Defina o Objetivo:
-    Antes de tudo, defina claramente o que você quer que sua IA faça. Ela deve ser boa em responder perguntas, traduzir textos, gerar código ou realizar outra tarefa?
+## Defina o Objetivo:
+#### Antes de tudo, defina claramente o que você quer que sua IA faça. Ela deve ser boa em responder perguntas, traduzir textos, gerar código ou realizar outra tarefa?
 
-    Prepare os Dados de Treinamento:
-    Colete exemplos de interações que são representativas do seu objetivo. Os dados podem ser coletados manualmente ou gerados automaticamente. Se você tem um conjunto de dados grande, pode ser mais eficaz usar ferramentas de anotação para marcar as interações.
+### Prepare os Dados de Treinamento:
+- Colete exemplos de interações que são representativas do seu objetivo. Os dados podem ser coletados manualmente ou gerados automaticamente. Se você tem um conjunto de dados grande, pode ser mais eficaz usar ferramentas de anotação para marcar as interações.
 
-    Anote e Classifique:
-    Dependendo da tarefa, você pode precisar marcar (anotar) cada interação com rótulos, como "sentimento positivo", "resposta correta", "entidade identificada", etc.
+### Anote e Classifique:
+- Dependendo da tarefa, você pode precisar marcar (anotar) cada interação com rótulos, como "sentimento positivo", "resposta correta", "entidade identificada", etc.
 
-    Diversifique os Exemplos:
-    Ao coletar dados, busque diversidade nos exemplos para que sua IA aprenda a responder a uma variedade de situações. Isso pode incluir diferentes formas de perguntar a mesma coisa, expressões variadas ou diferentes tipos de perguntas.
+### Diversifique os Exemplos:
+- Ao coletar dados, busque diversidade nos exemplos para que sua IA aprenda a responder a uma variedade de situações. Isso pode incluir diferentes formas de perguntar a mesma coisa, expressões variadas ou diferentes tipos de perguntas.
 
-    Ajuste com Feedback:
-    À medida que você treina o modelo, ele pode gerar respostas imprecisas ou erradas. Ao receber feedback (por exemplo, corrigindo a IA), você pode usar esses erros para melhorar o treinamento e ajustar as interações.
+### Ajuste com Feedback:
+- À medida que você treina o modelo, ele pode gerar respostas imprecisas ou erradas. Ao receber feedback (por exemplo, corrigindo a IA), você pode usar esses erros para melhorar o treinamento e ajustar as interações.
 
 
 Para treinar uma IA de linguagem (como um modelo GPT) de forma eficaz, as interações (ou exemplos de treinamento) desempenham um papel crucial. Elas são usadas para ensinar a IA como ela deve responder a diferentes inputs ou realizar tarefas específicas. Aqui estão alguns tipos de interações que você pode usar para treinar ou ajustar um modelo com base nos dados que você possui.
