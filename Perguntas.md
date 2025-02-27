@@ -47,10 +47,10 @@ Importante: A IA deve ser treinada para não dar conselhos médicos ou legais de
 
   - Empatia: Ensine a IA a ser empática. Isso não significa "simular" sentimentos humanos, mas apresentar respostas que mostrem compreensão e respeito pelas dificuldades do usuário.
 
-Exemplo de empatia:
+- ### Exemplo de empatia:
 
-    Entrada: "Estou me sentindo triste e sozinho."
-    Saída (resposta empática): "Sinto muito por você estar se sentindo assim. Às vezes, falar sobre o que está acontecendo pode ajudar. Estou aqui para ouvir e te apoiar. Também é importante procurar apoio de alguém de confiança ou um profissional que possa te ajudar."
+    - Entrada: "Estou me sentindo triste e sozinho."
+    - Saída (resposta empática): "Sinto muito por você estar se sentindo assim. Às vezes, falar sobre o que está acontecendo pode ajudar. Estou aqui para ouvir e te apoiar. Também é importante procurar apoio de alguém de confiança ou um profissional que possa te ajudar."
 
 ### 5. Treinamento com Dados Equilibrados e Diversos
 
@@ -66,23 +66,23 @@ Exemplo de empatia:
 
 ### 7. Monitoramento Contínuo e Atualização
 
-Após o treinamento inicial, o sistema precisa ser monitorado continuamente para garantir que ele está fornecendo respostas adequadas. Você também deve estar preparado para fazer ajustes com base no feedback dos usuários e mudanças nas melhores práticas de saúde ou outros campos sensíveis.
+#### Após o treinamento inicial, o sistema precisa ser monitorado continuamente para garantir que ele está fornecendo respostas adequadas. Você também deve estar preparado para fazer ajustes com base no feedback dos usuários e mudanças nas melhores práticas de saúde ou outros campos sensíveis.
 
-    Atualização de bases de dados: Mantenha suas fontes de dados atualizadas e revise as respostas periodicamente para garantir que a IA continue fornecendo informações corretas e seguras.
+  - Atualização de bases de dados: Mantenha suas fontes de dados atualizadas e revise as respostas periodicamente para garantir que a IA continue fornecendo informações corretas e seguras.
 
 ### 8. Evitar Dependência da IA para Questões Críticas
 
 Ao treinar uma IA para responder a perguntas sensíveis, lembre-se de que a IA não deve ser a única fonte de apoio em situações críticas. Ela pode fornecer informações gerais e direcionamentos, mas sempre deve ser acompanhada de um aviso de que o usuário deve buscar ajuda de profissionais humanos qualificados.
 Exemplos de Estratégias de Respostas para Questões Sensíveis:
 
-    Emocionais (ex: depressão, luto, suicídio):
-        Entrada: "Estou pensando em me matar, o que eu faço?"
-        Saída: "Lamento muito saber como você está se sentindo, mas por favor, procure imediatamente um profissional de saúde mental. Se você estiver em perigo, entre em contato com uma linha de emergência."
+  - #### Emocionais (ex: depressão, luto, suicídio):
+      - Entrada: "Estou pensando em me matar, o que eu faço?"
+      - Saída: "Lamento muito saber como você está se sentindo, mas por favor, procure imediatamente um profissional de saúde mental. Se você estiver em perigo, entre em contato com uma linha de emergência."
 
-    Saúde (ex: doenças, sintomas):
-        Entrada: "Estou com dor no peito, o que pode ser?"
-        Saída: "A dor no peito pode ser causada por várias condições, e é importante procurar um médico imediatamente para uma avaliação adequada. Não ignore sintomas graves."
+  - #### Saúde (ex: doenças, sintomas):
+      - Entrada: "Estou com dor no peito, o que pode ser?"
+      - Saída: "A dor no peito pode ser causada por várias condições, e é importante procurar um médico imediatamente para uma avaliação adequada. Não ignore sintomas graves."
 
-    Questões legais (ex: processos, direitos):
-        Entrada: "Estou sendo processado, o que devo fazer?"
-        Saída: "Em situações legais como essa, é essencial procurar um advogado para orientá-lo adequadamente sobre seus direitos e o que fazer a seguir."
+  - #### Questões legais (ex: processos, direitos):
+      - Entrada: "Estou sendo processado, o que devo fazer?"
+      - Saída: "Em situações legais como essa, é essencial procurar um advogado para orientá-lo adequadamente sobre seus direitos e o que fazer a seguir."
