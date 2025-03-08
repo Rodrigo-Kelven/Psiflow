@@ -4,13 +4,13 @@
 
 # CICLO DO DESENVOLVIEMNTO DE SOFTWARE
 
-- Planejamento
-- Análise de Requisitos
-- Projeto
-- Desenvolvimento
-- Testes
-- Implantação
-- Manutenção
+- **Planejamento**
+- **Análise de Requisitos**
+- **Projeto**
+- **Desenvolvimento**
+- **Testes**
+- **Implantação**
+- **Manutenção**
 
 # Ideia para resolver o problema de Saúde Mental 
 
