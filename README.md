@@ -1,5 +1,7 @@
 # Close-Friends.IA
 
+## Versão Beta: 0.0.02
+
 # CICLO DO DESENVOLVIEMNTO DE SOFTWARE
 
 - Planejamento
