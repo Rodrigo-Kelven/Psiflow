@@ -57,9 +57,15 @@
         { "assunto": "Futebol", "peso": 0.8, "ultima_interacao": "2025-02-26T12:00:00Z" },
         { "assunto": "Tecnologia", "peso": 0.4, "ultima_interacao": "2025-02-25T15:30:00Z" }
     ],
+    "conteudo": [
+        {"id_talk": "0247862",
+        "conteudo": "Quem ganhou a Champions League?"},
+        {"id_talk": "7891589",
+        "conteudo": "Artigo sobre inteligência artificial."},
+    ],
     "historico": [
-        { "tipo_interacao": "mensagem", "conteudo": "Quem ganhou a Champions League?", "data_interacao": "2025-02-26T12:05:00Z" },
-        { "tipo_interacao": "clique", "conteudo": "Artigo sobre inteligência artificial", "data_interacao": "2025-02-25T14:00:00Z" }
+        { "tipo_interacao": "mensagem", "conteudo": "0247862", "data_interacao": "2025-02-26T12:05:00Z" },
+        { "tipo_interacao": "clique", "conteudo": "7891589", "data_interacao": "2025-02-25T14:00:00Z" }
     ]
     }
 
