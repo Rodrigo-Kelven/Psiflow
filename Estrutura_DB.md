@@ -50,6 +50,10 @@
 
 ### Exemplo de Documento JSON no MongoDB
 
+  ### Modelo Otimizado
+  #### A solução ideal é separar os dados em coleções diferentes, mantendo apenas as informações mais relevantes no documento principal do usuário.
+  ## Coleção usuarios (Guarda informações gerais)
+
     {
     "_id": "uuid_usuario",
     "nome": "João",
@@ -57,17 +61,67 @@
         { "assunto": "Futebol", "peso": 0.8, "ultima_interacao": "2025-02-26T12:00:00Z" },
         { "assunto": "Tecnologia", "peso": 0.4, "ultima_interacao": "2025-02-25T15:30:00Z" }
     ],
-    "conteudo": [
-        {"id_talk": "0247862",
-        "conteudo": "Quem ganhou a Champions League?"},
-        {"id_talk": "7891589",
-        "conteudo": "Artigo sobre inteligência artificial."},
-    ],
-    "historico": [
-        { "tipo_interacao": "mensagem", "conteudo": "0247862", "data_interacao": "2025-02-26T12:05:00Z" },
-        { "tipo_interacao": "clique", "conteudo": "7891589", "data_interacao": "2025-02-25T14:00:00Z" }
-    ]
+    "criado_em": "2024-01-01T10:00:00Z",
+    "atualizado_em": "2025-02-26T12:10:00Z"
     }
+   * Motivo: Mantemos apenas os dados essenciais e que não crescem indefinidamente. 
+
+  ## Coleção mensagens (Guarda as mensagens dos usuários)
+
+    {
+      "_id": "uuid_mensagem",
+      "usuario_id": "uuid_usuario",
+      "tipo": "pergunta",
+      "conteudo": "Quem ganhou a Champions League?",
+      "data_envio": "2025-02-26T12:05:00Z"
+    }
+   * Motivo:
+      * Separa as mensagens em uma coleção dedicada, permitindo indexação e buscas rápidas.
+      * Permite guardar um histórico muito grande sem comprometer a performance da coleção de usuários.
+
+  ## Coleção respostas (Guarda as respostas da IA)
+
+    {
+    "_id": "uuid_resposta",
+    "mensagem_id": "uuid_mensagem",
+    "usuario_id": "uuid_usuario",
+    "conteudo": "O Real Madrid ganhou a Champions League em 2024.",
+    "data_resposta": "2025-02-26T12:06:00Z"
+    }
+   * Motivo:
+      * Permite que cada pergunta tenha múltiplas respostas (se necessário).
+      * As respostas podem ser geradas em tempo real ou armazenadas para referência futura.
+
+  ## Coleção historico_interacoes (Armazena cliques e interações)
+
+    {
+      "_id": "uuid_interacao",
+      "usuario_id": "uuid_usuario",
+      "tipo_interacao": "clique",
+      "conteudo_id": "uuid_mensagem",
+      "data_interacao": "2025-02-25T14:00:00Z"
+    }
+   * Motivo:
+      * Mantém o histórico separado, permitindo análises avançadas.
+      * Escalável para bilhões de registros.
+
+  ## Benefícios da Nova Estrutura
+  * ✅ Escalabilidade → O banco de dados não precisa carregar um documento gigante do usuário cada vez que ele interage.
+  * ✅ Consultas mais rápidas → Podemos indexar as coleções individualmente para melhorar a performance.
+  * ✅ Maior flexibilidade → Permite evoluir o modelo sem impactar os dados antigos.
+
+  ## Melhorando a Performance
+
+   #### Índices
+   - Indexar usuario_id em todas as coleções.
+   - Indexar data_envio e data_resposta para consultas rápidas.
+
+   #### Armazenamento de Conversas
+   - Pode usar Redis para armazenar mensagens recentes e reduzir leituras no banco.
+
+   #### Armazenamento de Preferências
+   - Pode ser recalculado periodicamente, em vez de atualizar toda vez que o usuário interage.
+ 
 
 ## 3. Relacionamento entre Usuário e Dados
 
