@@ -16,7 +16,7 @@
  - id (UUID4) → Identificador único
  - nome (String) → Nome do usuário
  - idade (Int) → Idade do usuário
- - gênero (Opcional)
+ - gênero 
  - data_criacao (Datetime)
 
 #### Preferências
