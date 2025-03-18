@@ -1,4 +1,5 @@
 # Close-Friends.IA
+## Versão 0.0.5
 
 # CICLO DO DESENVOLVIEMNTO DE SOFTWARE
 
