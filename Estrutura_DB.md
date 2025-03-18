@@ -51,7 +51,7 @@
 ### Exemplo de Documento JSON no MongoDB
 
   ### Modelo Otimizado
-  #### A solução ideal é separar os dados em coleções diferentes, mantendo apenas as informações mais relevantes no documento principal do usuário.
+  ### A solução ideal é separar os dados em coleções diferentes, mantendo apenas as informações mais relevantes no documento principal do usuário.
   ## Coleção usuarios (Guarda informações gerais)
 
     {
