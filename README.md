@@ -71,5 +71,5 @@ Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-s
 
 ## Autores
 - [@Rodrigo_Kelven](https://github.com/Rodrigo-Kelven)
-- [@Nicolas_Marcusi](https://github.com/N1kkoo)
+- [@Nicolas_Marcuse](https://github.com/N1kkoo)
 - [@Wesley Thiago](https://github.com/Wesley0071)
